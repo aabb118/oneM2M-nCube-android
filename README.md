@@ -63,13 +63,10 @@ Download and install Android Studio from the URL.(https://developer.android.com/
 ```
 
 ## Dependency External Libraries
-This is the list of external library dependencies for &Cube:Thyme Android 
+This is the list of external library dependencies for &Cube:Thyme Android
 - org.json
 - org.apache.http
 - org.eclipse.paho.client.mqttv3
 
 ## Document
 If you want more details please dowload the full [installation guide document](https://github.com/IoTKETI/nCube-Thyme-Java/raw/master/doc/(English)%20nCube-Thyme-Java.pdf).
-
-# Author
-Nak-Myoung Sung (nmsung@keti.re.kr; diesnm201@gmail.com)
